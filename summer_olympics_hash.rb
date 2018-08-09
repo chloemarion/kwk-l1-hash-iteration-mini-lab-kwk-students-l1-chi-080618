@@ -20,7 +20,7 @@ def iterate_through_hash
   # Implement this method so that it iterates over the hash created in add_a_key_value_pair
   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
 summer_olympics = add_a_key_value_pair
-puts "The #{place} summer olympics took place in #{year}."
+puts "The #{place} summer olympics took place in #{year."
 return add_a_key_value_pair
 end
 
